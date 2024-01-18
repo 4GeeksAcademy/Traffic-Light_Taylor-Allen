@@ -1,8 +1,15 @@
+#wrapper {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
 #trafficTop {
     background-color: black;
     width: 10px;
     height: 70px;
-    margin-left: 82px;
+    margin-left: 48px;
 }
 
 #container {
